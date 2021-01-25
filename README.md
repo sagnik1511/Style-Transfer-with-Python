@@ -49,12 +49,12 @@ Libraries:
 #### Photorealistic Style Transfer :
 Content | Style | Generated Image
 --- | --- | ---
-im1 | im2 | im3 
+![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Photorealistic%20Style%20Transfer/content1.jpg) | ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Photorealistic%20Style%20Transfer/style1.jpg) | ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Photorealistic%20Style%20Transfer/Generated%20Images/gen%2011.png)
 
 #### Artistic Style Transfer :
 Content | Style | Genarated Image 
 --- | --- | ---
-im1 | im2 | im3 
+![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Artistic%20Style%20Transfer/content%20image.jpg) | ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Artistic%20Style%20Transfer/style%20image.jpg) | ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Artistic%20Style%20Transfer/Kaggle/gen_img%209.png)
 
 
 ## DO **🌟** if you like it :)
