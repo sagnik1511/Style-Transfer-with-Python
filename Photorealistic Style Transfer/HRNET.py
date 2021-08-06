@@ -5,6 +5,9 @@ import numpy as np
 
 IN_MOMENTUM = 0.1
 
+"""
+HRNET : backbone of the model
+"""
 
 class ReflectionConv(nn.Module):
     '''
