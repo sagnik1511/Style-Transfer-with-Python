@@ -56,5 +56,7 @@ Content | Style | Genarated Image
 --- | --- | ---
 ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Artistic%20Style%20Transfer/content%20image.jpg) | ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Artistic%20Style%20Transfer/style%20image.jpg) | ![](https://github.com/sagnik1511/Style-Transfer-with-Python/blob/main/Artistic%20Style%20Transfer/Kaggle/gen_img%209.png)
 
-
+## TO-DO List :
+- [ ] Web-App
+- [ ] Different Styles
 ## DO **🌟** if you like it :)
