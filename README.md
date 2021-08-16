@@ -60,3 +60,5 @@ Content | Style | Genarated Image
 - [ ] Web-App
 - [ ] Different Styles
 ## DO **🌟** if you like it :)
+
+** This branch will have the codebase to use this repo as a no code product.**
